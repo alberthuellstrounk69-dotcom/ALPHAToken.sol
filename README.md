@@ -1,0 +1,2 @@
+# ALPHAToken.sol
+ Cryptocurrency token
